@@ -16,8 +16,8 @@ This dataset is a daily record of the top trending YouTube videos.
 	•	Time needed for being trending ie the temperature
 	•	Finding negative and positive reaction videos, which is most viral.
 	•	Keywords that make ur video popular
-    •   Most liked n disliked,top 10, most commented,,most viewed.
-	•   How the video performs compared to the recent uploads from the same channel.
+    •       Most liked n disliked,top 10, most commented,,most viewed.
+	•       How the video performs compared to the recent uploads from the same channel.
 	•	Age of the video.
     
 **Day 3** :  Finalise SQL and visualise the data.
