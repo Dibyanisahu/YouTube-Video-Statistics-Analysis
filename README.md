@@ -7,7 +7,7 @@ We are going to use using Python for data cleaning, SQL for querying the data fo
 **Objective** : _Identify factors/patterns that make a Youtube video trending._
 This dataset is a daily record of the top trending YouTube videos.
 
-**Day1** : EDA and data cleaning.
+**Day1** :  Data cleaning and EDA .
 
 **Day 2** :  Additional data cleaning and finding insights.
 
