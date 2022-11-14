@@ -1,5 +1,6 @@
 **Mid-term BI Project** on **YouTube Trending Video Statistics.** 
 
+
 **Project members** :  Smriti Khilrani and Dibyani Sahu
 
 We are going to use using Python for data cleaning, SQL for querying the data for useful insights and findings and finally, Tableau for data visualisation. 
