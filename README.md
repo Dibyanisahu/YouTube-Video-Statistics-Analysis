@@ -22,8 +22,10 @@ This dataset is a daily record of the top trending YouTube videos.
 	•       How the video performs compared to the recent uploads from the same channel.
 	•	Age of the video.
     
-**Day 3** :  Finalise SQL and visualise the data.
+**Day 3** :  Finalise SQL and visualise the data. 
+[Tableau_dashboard](https://public.tableau.com/app/profile/dibyani.sahu7767/viz/Youtube_Stats_Trending_video/YouTube_TrendingVideo_Analysis)
 
 **Day 4** : Documentation
+ 
 
 **Day 5** : Presentation
